@@ -1,0 +1,170 @@
+body {
+    background-color: #F7F5F2;
+}
+
+.top {
+    align: center;
+}
+
+.pic {
+    border-radius: 20%;
+    position: absolute;
+    height: 250px;
+    top: 20px;
+    left: 20px;
+    display: inline-block;
+
+}
+
+.header {
+    position: absolute;
+    left: 260px;
+    top: 80px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.contact {
+    text-align: right;
+    margin-right: 70px;
+    margin-top: 30px;
+    color: #497174;
+    line-height: 1.6;
+}
+
+.linkedin {
+    border-radius: 10%;
+    height: 20px;
+    margin-top: 5px;
+    position: relative;
+    background-color: #EFF5F5;
+
+
+}
+
+p {
+    font-size: 110%;
+    color: #40514E;
+
+}
+
+.about-me {
+    margin-top: 170px;
+    margin-left: 20px;
+    width: 50%;
+    font-weight: 500;
+    line-height: 1.6;
+    color: #40514E;
+}
+
+.cp {
+    display: inline-block;
+    position: relative;
+    margin-left: 20px;
+    margin-top: 0px;
+
+}
+
+.t1 {
+    margin-left: 30px;
+    border-color: lightgrey;
+    line-height: 1;
+    color: #40514E;
+}
+
+.t2 {
+    margin-left: 30px;
+    border-color: lightgrey;
+    color: #40514E;
+}
+
+.t3 {
+    width: 50%;
+    margin-left: 30px;
+    border-color: lightgrey;
+    color: #40514E;
+}
+
+.skills {
+    display: inline-block;
+    position: relative;
+    margin-left: 400px;
+}
+
+.qualification {
+    margin-left: 20px;
+}
+
+.work {
+    margin-left: 20px;
+    display: inline-block;
+    position: relative;
+}
+
+.qlc {
+    margin-left: 30px;
+    display: inline-block;
+    position: relative;
+}
+
+.qlc-jd {
+    margin-left: 20px;
+    line-height: 1.6;
+    color: #40514E;
+
+}
+
+.icici {
+    display: inline-block;
+    display: inline-block;
+    position: absolute;
+    width: 90%;
+    color: #40514E;
+}
+
+.qlc-table {
+    font-size: 110%;
+    color: #40514E;
+}
+
+.icici-table {
+    font-size: 110%;
+    color: #40514E;
+}
+
+.icici-jd {
+    margin-left: 20px;
+    line-height: 1.6;
+    color: #40514E;
+}
+
+.thanks {
+    text-align: center;
+    color: white;
+    font-size: 140%;
+    position: relative;
+    background-color: #497174;
+    padding: 20px;
+}
+
+h3 {
+   color: #497174;
+}
+
+.head {
+    color: #497174;b
+}
+
+.footer {
+    height: 30px;
+    background-color: color: #497174;
+    position: relative;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+
+}
+
+a:hover {color: skyblue}
